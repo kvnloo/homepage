@@ -466,6 +466,11 @@
         "lxc": "Контейнери Linux",
         "vms": "Віртуальні машини"
     },
+    "pulse": {
+        "nodes": "Nodes",
+        "vms": "VMs",
+        "lxcs": "LXCs"
+    },
     "glances": {
         "cpu": "CPU",
         "load": "Load",
